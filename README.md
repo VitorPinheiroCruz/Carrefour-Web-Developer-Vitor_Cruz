@@ -1,5 +1,5 @@
 # Carrefour-Web-Developer-Vitor_Cruz
-### Meu Progress 🔽
+### Meu Progresso 🔽
 [x] Boas-vindas ao Bootcamp Carrefour Web Developer  
 [ ] Aula Inaugural - Carrefour Web Developer  - Agendado para o dia 13/04/2022 às 14:00  
 [x] Pensamento Computacional  
