@@ -8,7 +8,7 @@
 [x] Projetos ágeis com SCRUM  
 [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso  
 #----------------------------------------------------------------------------------------------------------  
-[ ] Primeiros passos para desenvolvimeto web  
+[x] Primeiros passos para desenvolvimeto web  
 [ ] Introdução a criação de websites com HTML5 e CSS3  
 [ ] Construindo páginas para internet com Bootstrap  
 [ ] Recriando a Interface do Netflix  
